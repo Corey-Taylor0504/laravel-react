@@ -49,11 +49,6 @@ A crud based laravel app to learn how to integrate react and other important rea
 - Provide db name, username and password in .env
 - Run ```php artisan migrate --seed```
 
-
-## Thank You
-
-[![Stargazers repo roster for @arifszn/react-laravel](https://reporoster.com/stars/arifszn/react-laravel)](https://github.com/arifszn/react-laravel/stargazers)
-
 ## Support
 
 Show your ❤️ and support by giving a ⭐.
